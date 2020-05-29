@@ -6,7 +6,7 @@ demo.json
 
 ### document ###
 *.xlx
-*.xlxs
+*.xlsx
 *.csv
 *.pdf
 
